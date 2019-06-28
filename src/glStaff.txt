@@ -1,0 +1,11 @@
+63373|Natsanai|1010|true
+24128|Chaimongkol|1010|false
+83606|Seksan|1010|false
+13638|Wisit|1010|false
+23652|Nungruthai|1010|false
+44509|Sabaitip|1010|false
+11111|Happy|9999|false
+22222|Roland|9999|false
+55555|WOW|9999|true
+77777|Help|9999|false
+54554|Peter|9999|false
